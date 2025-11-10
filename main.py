@@ -29,3 +29,4 @@ st.json({"key": "value", "number": 42})
 st.dataframe({"Column 1": [1, 2, 3], "Column 2": ["A", "B", "C"]})
 st.table([["Row 1", 1], ["Row 2", 2], ["Row 3", 3]])
 st.line_chart([1, 2, 3, 4, 5])
+ # Network URL: http://192.168.32.221:8501
